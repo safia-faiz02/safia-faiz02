@@ -1,6 +1,3 @@
-## Hi there, this is Safia Faiz👋
-====================================================================================================================================
-
 # Hi there, I'm Safia Faiz 👋
 
 **AI Enthusiast | Computer Systems Engineer**
